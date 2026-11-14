@@ -25,6 +25,7 @@ and telephony/voice platforms.
 | [Predictive Dialer](https://github.com/Syedalaiba-work/dialer-case-study) | Multi-tenant predictive dialer (Elixir/OTP, WebRTC, SIP) |
 | [Call-Center CRM & Voice Engine](https://github.com/Syedalaiba-work/fe-crm-case-study) | Insurance call-center CRM & voice script engine |
 | [Multi-Tenant CRM](https://github.com/Syedalaiba-work/crm-case-study) | CRM for appointment-setting call teams (NestJS, React, Postgres RLS) |
+| [Facilities Platform](https://github.com/Syedalaiba-work/facilities-case-study) | Security & cleaning operations platform (Next.js, Hono, Bun, Postgres) |
 
 ## Focus areas
 

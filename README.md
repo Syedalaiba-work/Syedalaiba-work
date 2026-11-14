@@ -1,4 +1,4 @@
-# Hi, I'm Hamad 👋
+# Hi, I'm Syeda Laiba 👋
 
 Software developer building multi-tenant SaaS, real-time call-center systems
 and telephony/voice platforms.
@@ -42,5 +42,5 @@ Software engineering roles: backend, full-stack or VoIP.
 
 ## Contact
 
-- LinkedIn: [LinkedIn URL]
-- Email: [Email]
+- LinkedIn: [linkedin.com/in/syeda-laiba-b5a209362](https://www.linkedin.com/in/syeda-laiba-b5a209362/)
+- Email: [syedalaibawork@gmail.com](mailto:syedalaibawork@gmail.com)
